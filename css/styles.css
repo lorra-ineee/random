@@ -1,0 +1,41 @@
+body {
+    background-color: #EBC7E6;
+}
+hr {
+    border-style: dotted none none;
+    width: 100%;
+    border-color: #000000;
+    border-width: 5px;
+}
+h1 {
+    color: black;
+    text-decoration: #B3005E underline;
+    letter-spacing: 6px;
+    font-family: cursive;
+}
+h2 {
+    color:black;
+    letter-spacing: 5px;
+    font-family: system-ui;
+
+}
+h3 {
+    color:black;
+    letter-spacing: 3px;
+    font-family: system-ui;
+}
+p {
+    color: black;
+    text-decoration: underline overline #C92C6D;
+    font-family: serif;
+}
+
+
+.content {
+    margin: auto;
+    width: 50%
+}
+img {
+    border-radius: 50%;
+}
+
